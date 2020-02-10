@@ -25,7 +25,7 @@ public class Calculator {
         double div = x/y;
         return div;
     }
-    public static void main(String args[])
+    public static void main(String []args)
     {
         System.out.println("Welcome to our Calculator ");
         char ch;
